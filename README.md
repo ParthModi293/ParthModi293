@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍵 Currently pursuing a fresh undergraduate student major in Java Developer <br>⬅️ Working on the SPRING BOOT Project<br>🕸️ Has a solid grasp on WEB SERVICES Development<br>👀 Ability to work creatively in small and large team environments for a Team Project.<br>🍃 On the way to build Microservices with SPRING BOOT  
+🍵 Completed Graduation in Information Technology major in Java Developer <br>⬅️ Working on the SPRING BOOT Project<br>🕸️ Has a solid grasp on WEB SERVICES Development<br>👀 Ability to work creatively in small and large team environments for a Team Project.<br>🍃 On the way to build Microservices with SPRING BOOT  
 
 
 
